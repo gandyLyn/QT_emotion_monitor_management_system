@@ -1,2 +1,3 @@
 # QT_emotion_monitor_management_system
 学生情感管理系统，基于QT5.14开发
+文档存放于master分支
